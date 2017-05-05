@@ -1,0 +1,9 @@
+body{
+	background: #000;
+}
+
+#slider{
+	width:665px;
+	height: 250px;
+	margin:0 auto;
+}
